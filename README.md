@@ -1,2 +1,3 @@
 # DOJRP-Files
-This is a full server for a dojrp server enjoy :)
+
+U can add this fils into any server type incluing VPS, Home hosted, game panel
